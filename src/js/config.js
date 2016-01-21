@@ -3,10 +3,10 @@ var CONFIG = {
     LANGUAGE: '',
 
     // Name of app to use in alert dialog titles amongst other things
-    APP_NAME: '',
+    APP_NAME: 'SinalizarLagos',
 
     // URL of the fixmystreet install to report to
-    FMS_URL: '',
+    FMS_URL: 'http://sinalizarlagos.com',
 
     // namespace for storing drafts etc in. Should not need to change
     NAMESPACE: 'fixmystreet',
